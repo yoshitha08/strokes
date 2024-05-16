@@ -7,7 +7,103 @@ export function Hero() {
 }
 export const products = [
   {
-    title: "Moonbeam",
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
+    link: "https://gomoonbeam.com",
+    thumbnail:
+      "/main_bg.jpeg",
+  },
+  {
+    title: "Strokes",
     link: "https://gomoonbeam.com",
     thumbnail:
       "/main_bg.jpeg",
