@@ -24,10 +24,10 @@ function Navbar({ className }: { className?: string }) {
       {/* <Image src="/images/path939.png" alt="logo" height={24} width={24} /> */}
       <Menu setActive={setActive}>
         <Link href="#about" className="hover:text-[#5a83f3]">About Us</Link>
-        <Link href="#speakers" className="hover:text-[#5a83f3]" >Events</Link>
-        <Link href="#sponsors" className="hover:text-[#5a83f3]">Members</Link>
-        <Link href="#about" className="hover:text-[#5a83f3]">Timeline</Link>
-        <Link href="#about" className="hover:text-[#5a83f3]">Gallery</Link>
+        <Link href="#events" className="hover:text-[#5a83f3]" >Events</Link>
+        <Link href="#members" className="hover:text-[#5a83f3]">Members</Link>
+        <Link href="#timeline" className="hover:text-[#5a83f3]">Timeline</Link>
+        <Link href="#gallery" className="hover:text-[#5a83f3]">Gallery</Link>
       </Menu>
     </div>
     </div>

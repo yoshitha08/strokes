@@ -13,6 +13,7 @@ import {
 
 export function BentoGridDemo() {
   return (
+    <section id="gallery">
     <BentoGrid className="max-w-4xl mx-auto">
       {items.map((item, i) => (
         <BentoGridItem
@@ -25,6 +26,7 @@ export function BentoGridDemo() {
         />
       ))}
     </BentoGrid>
+    </section>
   );
 }
 const Skeleton = () => (

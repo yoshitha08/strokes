@@ -1,110 +1,115 @@
 "use client";
 import React from "react";
 import { HeroParallax } from "../ui/hero-parallax";
+import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 export function Hero() {
-  return <HeroParallax products={products} />;
+  return(
+    <section id="#">
+      <HeroParallax products={products} />
+    </section>
+    );
 }
 export const products = [
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },
   {
     title: "Strokes",
-    link: "https://gomoonbeam.com",
+    link: "http://localhost:3000/",
     thumbnail:
       "/main_bg.jpeg",
   },

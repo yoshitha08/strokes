@@ -4,10 +4,10 @@ import { ThreeDCardDemo } from '../cards/Card3d'
 
 function page() {
   return (
-    <div>
+    <section id='members'>
         {/* <Card/> */}
         <ThreeDCardDemo/>
-    </div>
+    </section>
   )
 }
 
