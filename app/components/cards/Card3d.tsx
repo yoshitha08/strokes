@@ -16,7 +16,8 @@ export function ThreeDCardDemo() {
             translateZ="50"
             className="text-xl font-bold text-neutral-600 dark:text-white"
           >
-            {secondYear.benny.name}
+            name
+            {/* {secondYear.benny.name} */}
           </CardItem>
           <CardItem
             as="p"

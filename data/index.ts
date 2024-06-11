@@ -1,24 +1,32 @@
-export const secondYear = {
-  benny: {
-    name: "Benny Perumalla",
-    image: "/Images/2nd/benny.jpeg",
+export const secondYear = [
+  {
+    id: 1,
+    name: "Benny",
+    img: "/Images/2nd/benny.jpeg",
+    social: "social link",
   },
-  john: {
-    name: "John Perumalla",
-    image: "/Images/2nd/john.jpeg",
+  {
+    id: 2,
+    name: "Benny",
+    img: "/Images/2nd/benny.jpeg",
+    social: "social link",
   },
-};
+];
 
-export const thirdYear = {
-  benny: {
-    name: "Benny Perumalla",
-    image: "/Images/2nd/benny.jpeg",
+export const thirdYear = [
+  {
+    id: 1,
+    name: "Benny",
+    img: "/Images/2nd/benny.jpeg",
+    social: "social link",
   },
-};
+];
 
-export const fourthYear = {
-  benny: {
-    name: "Benny Perumalla",
-    image: "/Images/2nd/benny.jpeg",
+export const fourthYear = [
+  {
+    id: 1,
+    name: "Benny",
+    img: "/Images/2nd/benny.jpeg",
+    social: "social link",
   },
-};
+];
