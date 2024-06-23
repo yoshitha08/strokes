@@ -7,7 +7,7 @@ import Link from "next/link";
 import { secondYear, fourthYear, thirdYear } from "@/data";
 
 export function ThreeDCardDemo() {
-  const [year, setYear] = useState(secondYear);
+  const [year, setYear] = useState(fourthYear);
 
   const handleTabClick = (
     tabName: React.SetStateAction<
@@ -18,8 +18,8 @@ export function ThreeDCardDemo() {
   };
 
   return (
-    <div id="members" className="grid grid-cols-3 overflow-hidden m-10 gap-3">
-      <div className="flex border-b-2 border-gray-300">
+    <>
+    <div className="flex items-center justify-center mt-10">
         <button
           className={`py-2 px-4 transition-colors duration-300 ${
             year === secondYear
@@ -28,7 +28,7 @@ export function ThreeDCardDemo() {
           }`}
           onClick={() => handleTabClick(secondYear)}
         >
-          AiseraGPT
+          Second Year
         </button>
         <button
           className={`py-2 px-4 transition-colors duration-300 ${
@@ -38,7 +38,7 @@ export function ThreeDCardDemo() {
           }`}
           onClick={() => handleTabClick(thirdYear)}
         >
-          AI Copilot
+          Third Year
         </button>
         <button
           className={`py-2 px-4 transition-colors duration-300 ${
@@ -48,9 +48,10 @@ export function ThreeDCardDemo() {
           }`}
           onClick={() => handleTabClick(fourthYear)}
         >
-          AI Search
+          Fourth Year
         </button>
       </div>
+    <div id="members" className="grid grid-cols-3 overflow-hidden m-10 gap-3">
       {year === secondYear
         ? secondYear.map((item) => (
             <CardContainer className="inter-var" key={item.id}>
@@ -171,5 +172,6 @@ export function ThreeDCardDemo() {
             </CardContainer>
           ))}
     </div>
+    </>
   );
 }
