@@ -26,7 +26,6 @@ function Navbar({ className }: { className?: string }) {
         <Link href="#about" className="hover:text-[#5a83f3]">About Us</Link>
         <Link href="#events" className="hover:text-[#5a83f3]" >Events</Link>
         <Link href="#members" className="hover:text-[#5a83f3]">Members</Link>
-        <Link href="#timeline" className="hover:text-[#5a83f3]">Timeline</Link>
         <Link href="#gallery" className="hover:text-[#5a83f3]">Gallery</Link>
       </Menu>
     </div>
