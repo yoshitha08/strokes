@@ -13,12 +13,11 @@ function page() {
     <div>
       <NavbarFloat/>
       <Hero/>
-      <h1 className='text-7xl text-gray-400 flex justify-center items-center'>Events</h1>
+      <h1 className='text-7xl text-gray-400 flex justify-center items-center mt-10'>Events</h1>
       <StickyScrollRevealDemo/>
       <h1 className='text-7xl text-gray-400 flex justify-center items-center'>Members</h1>
       <ThreeDCardDemo/>
-      <h1 className='text-7xl text-gray-400 flex justify-center items-center mb-[6%]'>Timeline</h1>
-
+      {/*<h1 className='text-7xl text-gray-400 flex justify-center items-center mb-[6%]'>Timeline</h1>*/}
       <h1 className='text-7xl text-gray-400 flex justify-center items-center mb-[6%]'>Gallery</h1>
       {/* <Gallery/> */}
       <BentoGridDemo/>
