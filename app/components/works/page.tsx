@@ -1,91 +1,25 @@
 import React from 'react'
+import { div } from 'three/examples/jsm/nodes/Nodes.js'
+import { useState } from 'react'
+import ArtWorks from './ArtWorks'
+import GdWorks from './GdWorks'
+import Photographs from './Photographs'
+import { artworks,gdworks,photographs } from '@/data'
 
 function page() {
+  
   return (
-    <div className="container mx-auto px-5 py-2 lg:px-32 lg:pt-24">
-  <div className="-m-1 flex flex-wrap md:-m-2">
-    <div className="flex w-1/2 flex-wrap">
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(70).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp" />
-      </div>
-      <div className="w-full p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" />
-      </div>
+    <>
+    <div id = "gallery" className="container min-w-full p-10">
+      <h1 className='text-3xl text-gray-400 flex justify-center items-center mt-5 mb-7'>ArtWorks</h1>
+      <ArtWorks/>
+      <h1 className='text-3xl text-gray-400 flex justify-center items-center mt-20 mb-7'>Graphic Designs</h1>
+      <GdWorks/>
+      <h1 className='text-3xl text-gray-400 flex justify-center items-center mt-20 mb-7'>Photographs</h1>
+      <Photographs/>
     </div>
-    <div className="flex w-1/2 flex-wrap">
-      <div className="w-full p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp" />
-      </div>
-    </div>
-    <div className="flex w-1/2 flex-wrap">
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(70).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp" />
-      </div>
-      <div className="w-full p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" />
-      </div>
-    </div>
-    <div className="flex w-1/2 flex-wrap">
-      <div className="w-full p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp" />
-      </div>
-      <div className="w-1/2 p-1 md:p-2">
-        <img
-          alt="gallery"
-          className="block h-full w-full rounded-lg object-cover object-center"
-          src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp" />
-      </div>
-    </div>
-  </div>
-</div>
+
+    </>
   )
 }
 

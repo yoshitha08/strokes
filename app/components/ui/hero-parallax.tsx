@@ -103,7 +103,7 @@ export const HeroParallax = ({
 
 export const Header = () => {
   return (
-    <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0 z-10">
+    <div className="max-w-7xl relative mx-auto py-3 md:py-5 px-4 w-full  left-0 top-0 z-10">
       <div>
         <Image
           src="/strokes.jpg"
@@ -117,10 +117,23 @@ export const Header = () => {
         About Us
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        We take beautiful moments with camera and paint.
-        We are a team of passionate creative people that love to build
-        amazing products.
+      Welcome to STROKES, the official art, photography, and filming club of NIT Durgapur. Founded in 2015 by a group of enthusiastic second-year students, STROKES, a young but vibrant club, ignites the artist within our budding engineers. We foster a unique community where creativity and artistic expression flourish.
       </p>
+
+      <h1 className="text-2xl md:text-7xl mt-10 font-bold dark:text-white ">
+      Our Mission
+      </h1>
+      <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
+      STROKES believes creativity is the spark that ignites personal growth. We empower students to delve into the world of artistic expression, from the photographer's eye to the storyteller's voice. Through vibrant events and campus murals, STROKES fosters a community where creativity thrives and leaves a lasting mark.</p>
+
+      <h1 className="text-2xl md:text-7xl mt-10 font-bold dark:text-white ">
+      Vision
+      </h1>
+      <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
+      STROKES aspires to be a vibrant hub on campus where NIT Durgapur students can ignite their creativity and explore artistic expression through various mediums like photography, painting, and storytelling.
+</p>
+
+
     </div>
   );
 };

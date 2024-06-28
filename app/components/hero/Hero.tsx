@@ -21,7 +21,7 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/sanlipta1.jpg",
   },
   {
     title: "Strokes",
