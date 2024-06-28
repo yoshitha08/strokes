@@ -15,12 +15,12 @@ const Footer = () => {
       </div> */}
 
       <div className="flex flex-col items-center">
-      <h1 className='text-6xl text-gray-400 flex justify-center items-center mt-[6%]'>
-          Ready to take digital presence to the next level?
+      <h1 className='text-6xl text-gray-400 flex justify-center items-center m-[6%]'>
+          Are you up for some more creativity?
         </h1>
-        <p className="text-gray-400 text-3xl my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+        <p className="text-gray-400 text-3xl mt-5 mb-2 text-center">
+          Reach out to us
+          
         </p>
         <a href="mailto:sayanp650@gmail.com">
           <MagicButton
@@ -31,9 +31,10 @@ const Footer = () => {
         </a>
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center mr-[5%] ml-[5%]">
-        <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Sayan Paul
+        <p className="md:text-base text-sm mb-5 md:font-normal font-light">
+          Copyright ©2015 - 2024 Strokes. All Rights Reserved 
         </p>
+        
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((info) => (
             // eslint-disable-next-line react/jsx-key
@@ -58,16 +59,11 @@ export const socialMedia = [
     {
       id: 1,
       img: "/insta.svg",
-      href: "https://github.com/Sayan650"
+      href: "https://www.instagram.com/wearestrokes?igsh=M3YxMXI1MWR5MGIz"
     },
     {
       id: 2,
-      img: "/twit.svg",
-      href: "https://x.com/sayanp650"
-    },
-    {
-      id: 3,
       img: "/link.svg",
-      href: "https://www.linkedin.com/in/sayan-paul-nitdgp/",
+      href: "https://www.linkedin.com/company/strokesnitd/",
     },
   ];
