@@ -478,4 +478,38 @@ export const photographs = [
     id:12,
     img:"/Images/works/IMG_20240503_212144_690.jpg"
   },
+  {
+    id:13,
+    img:"/Images/works/FB_IMG_1717515577526.jpg"
+  },
+  {
+    id:14,
+    img:"/Images/works/FB_IMG_1717515507311.jpg"
+  },
+  {
+    id:15,
+    img:"/Images/works/1000267363-01.jpeg"
+  },
+  {
+    id:16,
+    img:"/Images/works/1000184592-01.jpeg"
+  },
+  {
+    id:17,
+    img:"/Images/works/20240531175110_IMG_2636 (1).jpg"
+  },
+  {
+    id:18,
+    img:"/Images/works/20240525180724_IMG_2540.jpg"
+  },
+  {
+    id:19,
+    img:"/Images/works/20240515172352_IMG_2388.jpg"
+  },
+  {
+    id:20,
+    img:"/Images/works/20240515165945_IMG_2351 (1).jpg"
+  },
 ]
+
+
