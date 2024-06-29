@@ -22,7 +22,7 @@ const Footer = () => {
           Reach out to us
           
         </p>
-        <a href="mailto:sayanp650@gmail.com">
+        <a href="mailto:strokes.nitd@gmail.com">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -66,4 +66,10 @@ export const socialMedia = [
       img: "/link.svg",
       href: "https://www.linkedin.com/company/strokesnitd/",
     },
+    {
+      id:3,
+      img:"/fb.svg",
+      href:"https://www.facebook.com/Strokes.NITD?mibextid=ZbWKwL"
+    }
+
   ];

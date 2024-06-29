@@ -15,19 +15,13 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/1000367327-01.jpeg",
   },
   {
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/Images/works/sanlipta1.jpg",
-  },
-  {
-    title: "Strokes",
-    link: "http://localhost:3000/",
-    thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/IMG_5836_Original.jpg",
   },
   {
     title: "Strokes",
@@ -39,7 +33,7 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/IMG_20240229_210113_479.jpg",
   },
   {
     title: "Strokes",
@@ -51,7 +45,25 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/Digital Art 2.png",
+  },
+  {
+    title: "Strokes",
+    link: "http://localhost:3000/",
+    thumbnail:
+      "/Images/works/Fight for survival by Arjo Kundu.jpg",
+  },
+  {
+    title: "Strokes",
+    link: "http://localhost:3000/",
+    thumbnail:
+      "/Images/works/IMG_20240119_182323.jpg",
+  },
+  {
+    title: "Strokes",
+    link: "http://localhost:3000/",
+    thumbnail:
+      "/Images/works/yoshitha.jpg",
   },
   {
     title: "Strokes",
@@ -63,25 +75,7 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
-  },
-  {
-    title: "Strokes",
-    link: "http://localhost:3000/",
-    thumbnail:
-      "/main_bg.jpeg",
-  },
-  {
-    title: "Strokes",
-    link: "http://localhost:3000/",
-    thumbnail:
-      "/main_bg.jpeg",
-  },
-  {
-    title: "Strokes",
-    link: "http://localhost:3000/",
-    thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/IMG_1627.jpg",
   },
   {
     title: "Strokes",
@@ -99,13 +93,19 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/IMG_20231019_224753_241.jpg",
   },
   {
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/IMG_20240503_212144_690.jpg",
+  },
+  {
+    title: "Strokes",
+    link: "http://localhost:3000/",
+    thumbnail:
+      "/Images/works/sunny afternoons.jpg",
   },
   {
     title: "Strokes",

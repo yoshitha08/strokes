@@ -313,6 +313,190 @@ export const fourthYear = [
     post:"Publicity Head",
     social: "https://www.instagram.com/itssoumyaaa?igsh=amJ3YXl1Zmc0dHE2",
   },
+  {
+    id: 6,
+    name: "Anirban Bag",
+    img: "/Images/4th/anirban.jpg",
+    post:"Art Wing Head",
+    social: "https://www.instagram.com/a_n_i_r_b_a_n_b_a_g?igsh=emU1YmNibnVzZW5v",
+  },
+  {
+    id: 7,
+    name: "Satyam Saroj",
+    img: "/Images/4th/satyam.jpg",
+    post:"Art Wing Head",
+    social: "https://www.instagram.com/invites/contact/?igsh=e95zjpom27gr&utm_content=kurg244",
+  },
+  {
+    id: 8,
+    name: "Aritri Biswas",
+    img: "/Images/4th/aritri.jpg",
+    post:"Design Head",
+    social: "https://www.instagram.com/_lumosmaxima_7?igsh=NXJ0YzBzeHM0cTB2",
+  },
+  {
+    id: 9,
+    name: "Debjoti Mahato",
+    img: "/Images/4th/debjyoti.jpg",
+    post:"Photography Head",
+    social: "https://www.instagram.com/_debjotimahato_?igsh=OGQ5ZDc2ODk2ZA==",
+  },
+  {
+    id: 10,
+    name: "Arjo Kundu",
+    img: "/Images/4th/arjo.png",
+    post:"Event Head",
+    social: "https://www.instagram.com/arjo_dyl/",
+  },
+  {
+    id: 11,
+    name: "Alangkrita Mandal",
+    img: "/Images/4th/alangkrita.jpg",
+    post:"PR Head",
+    social: " https://www.instagram.com/invites/contact/?igsh=7tdyy5kd8n99&utm_content=m4ul6l4",
+  },
+  {
+    id: 12,
+    name: "Sanjana Hansda",
+    img: "/Images/4th/sanjana.jpg",
+    post:"Sponsorship Head",
+    social: "https://www.instagram.com/sanjna4giko?igsh=eDh1OGUyNW5xMGtj",
+  },
+  {
+    id: 13,
+    name: "Shreya Modak",
+    img: "/Images/4th/shreya.jpg",
+    post:"Social Media Head",
+    social: "https://www.instagram.com/_aladaitoh?igsh=MXYwcXRsZWxjYmYx",
+  },
+  {
+    id: 14,
+    name: "Tirtharaj Misra",
+    img: "/Images/4th/tirtharaj.jpg",
+    post:"Logistics Head",
+    social: "https://www.instagram.com/tirth_0_raj/",
+  },
+  {
+    id: 15,
+    name: "Soumyadeep Bhowmik",
+    img: "/Images/4th/soumyadeep.jpg",
+    post:"Publicity Head",
+    social: "https://www.instagram.com/itssoumyaaa?igsh=amJ3YXl1Zmc0dHE2",
+  },
+];
+
+export const artworks = [
+  {
+    id:1,
+    img:"/Images/works/1000367327-01.jpeg"
+  },{
+    id:2,
+    img:"/Images/works/1000284896-01.jpeg"
+  },
+  {
+    id:3,
+    img:"/Images/works/1000341872-01.jpeg"
+  },
+  {
+    id:4,
+    img:"/Images/works/1000367329-01.jpeg"
+  },
+  {
+    id:5,
+    img:"/Images/works/IMG_20240623_203132.jpg"
+  },
+  {
+    id:6,
+    img:"/Images/works/IMG_20240623_203102.jpg"
+  },
+  {
+    id:7,
+    img:"/Images/works/Screenshot_2023-12-31-14-30-28-359_com.instagram.android-edit.jpg"
+  },
+  {
+    id:8,
+    img:"/Images/works/IMG_20230718_084312_830.jpg"
+  },
+  {
+    id:9,
+    img:"/Images/works/PXL_20230304_073226239-01.jpeg"
+  },
+  {
+    id:10,
+    img:"/Images/works/IMG_20240603_220429.jpg"
+  },
+  {
+    id:11,
+    img:"/Images/works/IMG-20211112-WA0017.jpg"
+  },
+  {
+    id:12,
+    img:"/Images/works/IMG_20230628_132300 (1).jpg"
+  },
+  {
+    id:13,
+    img:"/Images/works/yositha2.jpg"
+  },
+  {
+    id:14,
+    img:"/Images/works/yositha3.jpg"
+  },
+  {
+    id:15,
+    img:"/Images/works/IMG20210626001207_00-01.jpeg"
+  },
+
+];
+
+export const gdworks = [
+  {
+    id:1,
+    img:"/Images/works/Digital Art 2.png"
+  },
+  {
+    id:2,
+    img:"/Images/works/Digital Art 1 .png"
+  },
+  {
+    id:3,
+    img:"/Images/works/lost_in_space.jpg"
+  },
+  {
+    id:4,
+    img:"/Images/works/AARHAN ART 1.jpg"
+  },
+  {
+    id:5,
+    img:"/Images/works/sunny afternoons.jpg"
+  },
+  {
+    id:6,
+    img:"/Images/works/emblame_indipendence copy.jpg"
+  },
+  {
+    id:7,
+    img:"/Images/works/IMG_20240119_182323.jpg"
+  },
+  {
+    id:8,
+    img:"/Images/works/yoshitha.jpg"
+  },
+  {
+    id:9,
+    img:"/Images/works/yositha4.jpg"
+  },
+  {
+    id:10,
+    img:"/Images/works/sanlipta1.jpg"
+  },
+  {
+    id:11,
+    img:"/Images/works/sanlipta2.jpg"
+  },
+  {
+    id:13,
+    img:"/Images/works/sanlipta3.jpg"
+  }
 ];
 
 export const artworks = [
@@ -478,4 +662,37 @@ export const photographs = [
     id:12,
     img:"/Images/works/IMG_20240503_212144_690.jpg"
   },
+  {
+    id:13,
+    img:"/Images/works/FB_IMG_1717515577526.jpg"
+  },
+  {
+    id:14,
+    img:"/Images/works/FB_IMG_1717515507311.jpg"
+  },
+  {
+    id:15,
+    img:"/Images/works/1000267363-01.jpeg"
+  },
+  {
+    id:16,
+    img:"/Images/works/1000184592-01.jpeg"
+  },
+  {
+    id:17,
+    img:"/Images/works/20240531175110_IMG_2636 (1).jpg"
+  },
+  {
+    id:18,
+    img:"/Images/works/20240525180724_IMG_2540.jpg"
+  },
+  {
+    id:19,
+    img:"/Images/works/20240515172352_IMG_2388.jpg"
+  },
+  {
+    id:20,
+    img:"/Images/works/20240515165945_IMG_2351 (1).jpg"
+  },
 ]
+
