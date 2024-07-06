@@ -499,119 +499,119 @@ export const gdworks = [
   }
 ];
 
-export const artworks = [
-  {
-    id:1,
-    img:"/Images/works/1000367327-01.jpeg"
-  },{
-    id:2,
-    img:"/Images/works/1000284896-01.jpeg"
-  },
-  {
-    id:3,
-    img:"/Images/works/1000341872-01.jpeg"
-  },
-  {
-    id:4,
-    img:"/Images/works/1000367329-01.jpeg"
-  },
-  {
-    id:5,
-    img:"/Images/works/IMG_20240623_203132.jpg"
-  },
-  {
-    id:6,
-    img:"/Images/works/IMG_20240623_203102.jpg"
-  },
-  {
-    id:7,
-    img:"/Images/works/Screenshot_2023-12-31-14-30-28-359_com.instagram.android-edit.jpg"
-  },
-  {
-    id:8,
-    img:"/Images/works/IMG_20230718_084312_830.jpg"
-  },
-  {
-    id:9,
-    img:"/Images/works/PXL_20230304_073226239-01.jpeg"
-  },
-  {
-    id:10,
-    img:"/Images/works/IMG_20240603_220429.jpg"
-  },
-  {
-    id:11,
-    img:"/Images/works/IMG-20211112-WA0017.jpg"
-  },
-  {
-    id:12,
-    img:"/Images/works/IMG_20230628_132300 (1).jpg"
-  },
-  {
-    id:13,
-    img:"/Images/works/yositha2.jpg"
-  },
-  {
-    id:14,
-    img:"/Images/works/yositha3.jpg"
-  },
-  {
-    id:15,
-    img:"/Images/works/IMG20210626001207_00-01.jpeg"
-  },
+// export const artworks = [
+//   {
+//     id:1,
+//     img:"/Images/works/1000367327-01.jpeg"
+//   },{
+//     id:2,
+//     img:"/Images/works/1000284896-01.jpeg"
+//   },
+//   {
+//     id:3,
+//     img:"/Images/works/1000341872-01.jpeg"
+//   },
+//   {
+//     id:4,
+//     img:"/Images/works/1000367329-01.jpeg"
+//   },
+//   {
+//     id:5,
+//     img:"/Images/works/IMG_20240623_203132.jpg"
+//   },
+//   {
+//     id:6,
+//     img:"/Images/works/IMG_20240623_203102.jpg"
+//   },
+//   {
+//     id:7,
+//     img:"/Images/works/Screenshot_2023-12-31-14-30-28-359_com.instagram.android-edit.jpg"
+//   },
+//   {
+//     id:8,
+//     img:"/Images/works/IMG_20230718_084312_830.jpg"
+//   },
+//   {
+//     id:9,
+//     img:"/Images/works/PXL_20230304_073226239-01.jpeg"
+//   },
+//   {
+//     id:10,
+//     img:"/Images/works/IMG_20240603_220429.jpg"
+//   },
+//   {
+//     id:11,
+//     img:"/Images/works/IMG-20211112-WA0017.jpg"
+//   },
+//   {
+//     id:12,
+//     img:"/Images/works/IMG_20230628_132300 (1).jpg"
+//   },
+//   {
+//     id:13,
+//     img:"/Images/works/yositha2.jpg"
+//   },
+//   {
+//     id:14,
+//     img:"/Images/works/yositha3.jpg"
+//   },
+//   {
+//     id:15,
+//     img:"/Images/works/IMG20210626001207_00-01.jpeg"
+//   },
 
-];
+// ];
 
-export const gdworks = [
-  {
-    id:1,
-    img:"/Images/works/Digital Art 2.png"
-  },
-  {
-    id:2,
-    img:"/Images/works/Digital Art 1 .png"
-  },
-  {
-    id:3,
-    img:"/Images/works/lost_in_space.jpg"
-  },
-  {
-    id:4,
-    img:"/Images/works/AARHAN ART 1.jpg"
-  },
-  {
-    id:5,
-    img:"/Images/works/sunny afternoons.jpg"
-  },
-  {
-    id:6,
-    img:"/Images/works/emblame_indipendence copy.jpg"
-  },
-  {
-    id:7,
-    img:"/Images/works/IMG_20240119_182323.jpg"
-  },
-  {
-    id:8,
-    img:"/Images/works/yoshitha.jpg"
-  },
-  {
-    id:9,
-    img:"/Images/works/yositha4.jpg"
-  },
-  {
-    id:10,
-    img:"/Images/works/sanlipta1.jpg"
-  },
-  {
-    id:11,
-    img:"/Images/works/sanlipta2.jpg"
-  },
-  {
-    id:13,
-    img:"/Images/works/sanlipta3.jpg"
-  }
-];
+// export const gdworks = [
+//   {
+//     id:1,
+//     img:"/Images/works/Digital Art 2.png"
+//   },
+//   {
+//     id:2,
+//     img:"/Images/works/Digital Art 1 .png"
+//   },
+//   {
+//     id:3,
+//     img:"/Images/works/lost_in_space.jpg"
+//   },
+//   {
+//     id:4,
+//     img:"/Images/works/AARHAN ART 1.jpg"
+//   },
+//   {
+//     id:5,
+//     img:"/Images/works/sunny afternoons.jpg"
+//   },
+//   {
+//     id:6,
+//     img:"/Images/works/emblame_indipendence copy.jpg"
+//   },
+//   {
+//     id:7,
+//     img:"/Images/works/IMG_20240119_182323.jpg"
+//   },
+//   {
+//     id:8,
+//     img:"/Images/works/yoshitha.jpg"
+//   },
+//   {
+//     id:9,
+//     img:"/Images/works/yositha4.jpg"
+//   },
+//   {
+//     id:10,
+//     img:"/Images/works/sanlipta1.jpg"
+//   },
+//   {
+//     id:11,
+//     img:"/Images/works/sanlipta2.jpg"
+//   },
+//   {
+//     id:13,
+//     img:"/Images/works/sanlipta3.jpg"
+//   }
+// ];
 
 export const photographs = [
   {
