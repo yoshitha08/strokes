@@ -6,14 +6,12 @@ import { CardBody, CardContainer, CardItem } from "../ui/3d-card";
 import Link from "next/link";
 import { secondYear, fourthYear, thirdYear } from "@/data";
 
-export function ThreeDCardDemo() {
-  const [year, setYear] = useState(fourthYear);
+type YearData = { id: number; name: string; img: string; post: string; social: string }[];
 
-  const handleTabClick = (
-    tabName: React.SetStateAction<
-      { id: number; name: string; img: string; social: string }[]
-    >
-  ) => {
+export function ThreeDCardDemo() {
+  const [year, setYear] = useState<YearData>(fourthYear);
+
+  const handleTabClick = (tabName: YearData) => {
     setYear(tabName);
   };
 
