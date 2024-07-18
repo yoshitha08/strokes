@@ -7,7 +7,6 @@ import Page from '../components/works/page'
 import { ThreeDCardDemo } from '../components/cards/Card3d'
 import { BentoGridDemo } from '../components/hero/Grid'
 import Footer from '../components/footer/Footer'
-import { Gallery } from '../components/gallery/page'
 
 function page() {
   return (
