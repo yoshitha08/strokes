@@ -124,7 +124,7 @@ export const Header = () => {
       Our Mission
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-      STROKES believes creativity is the spark that ignites personal growth. We empower students to delve into the world of artistic expression, from the photographer's eye to the storyteller's voice. Through vibrant events and campus murals, STROKES fosters a community where creativity thrives and leaves a lasting mark.</p>
+      STROKES believes creativity is the spark that ignites personal growth. We empower students to delve into the world of artistic expression, from the photographer&apos;s eye to the storyteller&apos;s voice. Through vibrant events and campus murals, STROKES fosters a community where creativity thrives and leaves a lasting mark.</p>
 
       <h1 className="text-2xl md:text-7xl mt-10 font-bold dark:text-white ">
       Vision
