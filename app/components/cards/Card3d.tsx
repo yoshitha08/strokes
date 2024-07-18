@@ -49,7 +49,7 @@ export function ThreeDCardDemo() {
           Fourth Year
         </button>
       </div>
-    <div id="members" className="grid grid-cols-3 overflow-hidden m-10 gap-3">
+    <div id="members" className="lg:grid lg:grid-cols-3 md:grid md:grid-cols-1 overflow-hidden m-10 gap-3">
       {year === secondYear
         ? secondYear.map((item) => (
             <CardContainer className="inter-var" key={item.id}>

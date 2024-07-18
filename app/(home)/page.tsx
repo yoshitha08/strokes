@@ -16,7 +16,7 @@ function page() {
       <h1 className='text-7xl text-gray-400 flex justify-center items-center mt-10'>Events</h1>
       <StickyScrollRevealDemo/>
       <h1 className='text-7xl text-gray-400 flex justify-center items-center mt-10'>Members</h1>
-      <h3 className='text-2xl text-gray-400 flex mt-3 justify-center items-center mt-5'>Meet our Team!!</h3>
+      <h3 className='text-2xl text-gray-400 flex justify-center items-center mt-5'>Meet our Team!!</h3>
       <ThreeDCardDemo/>
       {/*<h1 className='text-7xl text-gray-400 flex justify-center items-center mb-[6%]'>Timeline</h1>*/}
       <h1 className='text-7xl text-gray-400 flex justify-center items-center mb-2 mt-10'>Gallery</h1>
