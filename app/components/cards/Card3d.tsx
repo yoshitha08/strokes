@@ -17,7 +17,7 @@ export function ThreeDCardDemo() {
 
   return (
     <>
-    <div className="flex items-center justify-center mt-10">
+    <div className="flex items-center justify-center px-5 mt-10">
         <button
           className={`py-2 px-4 transition-colors duration-300 ${
             year === secondYear
