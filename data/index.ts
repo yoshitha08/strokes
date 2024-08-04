@@ -554,7 +554,7 @@ export const photographs = [
   },
   {
     id:3,
-    img:"/Images/works/IMG_1620.jpg"
+    img:"/Images/works/IMG_1626.JPG"
   },
   {
     id:4,
@@ -578,7 +578,7 @@ export const photographs = [
   },
   {
     id:9,
-    img:"/Images/works/IMG_5836_Original.jpg"
+    img:"/Images/works/IMG_20240529_132159_759.jpg"
   },
   {
     id:10,
@@ -623,6 +623,22 @@ export const photographs = [
   {
     id:20,
     img:"/Images/works/20240515165945_IMG_2351.jpg"
+  },
+  {
+    id: 21,
+    img : "/Images/works/nightmonument.jpg"
+  },
+  {
+    id: 22,
+    img : "/Images/works/normallandscape.jpg"
+  },
+  {
+    id: 23,
+    img : "/Images/works/internitmatch.jpg"
+  },
+  {
+    id: 24,
+    img : "/Images/works/throughtheloophole.jpg"
   },
 ]
 
