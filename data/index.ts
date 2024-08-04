@@ -313,76 +313,6 @@ export const fourthYear = [
     post:"Publicity Head",
     social: "https://www.instagram.com/itssoumyaaa?igsh=amJ3YXl1Zmc0dHE2",
   },
-  {
-    id: 6,
-    name: "Anirban Bag",
-    img: "/Images/4th/anirban.jpg",
-    post:"Art Wing Head",
-    social: "https://www.instagram.com/a_n_i_r_b_a_n_b_a_g?igsh=emU1YmNibnVzZW5v",
-  },
-  {
-    id: 7,
-    name: "Satyam Saroj",
-    img: "/Images/4th/satyam.jpg",
-    post:"Art Wing Head",
-    social: "https://www.instagram.com/invites/contact/?igsh=e95zjpom27gr&utm_content=kurg244",
-  },
-  {
-    id: 8,
-    name: "Aritri Biswas",
-    img: "/Images/4th/aritri.jpg",
-    post:"Design Head",
-    social: "https://www.instagram.com/_lumosmaxima_7?igsh=NXJ0YzBzeHM0cTB2",
-  },
-  {
-    id: 9,
-    name: "Debjoti Mahato",
-    img: "/Images/4th/debjyoti.jpg",
-    post:"Photography Head",
-    social: "https://www.instagram.com/_debjotimahato_?igsh=OGQ5ZDc2ODk2ZA==",
-  },
-  {
-    id: 10,
-    name: "Arjo Kundu",
-    img: "/Images/4th/arjo.png",
-    post:"Event Head",
-    social: "https://www.instagram.com/arjo_dyl/",
-  },
-  {
-    id: 11,
-    name: "Alangkrita Mandal",
-    img: "/Images/4th/alangkrita.jpg",
-    post:"PR Head",
-    social: " https://www.instagram.com/invites/contact/?igsh=7tdyy5kd8n99&utm_content=m4ul6l4",
-  },
-  {
-    id: 12,
-    name: "Sanjana Hansda",
-    img: "/Images/4th/sanjana.jpg",
-    post:"Sponsorship Head",
-    social: "https://www.instagram.com/sanjna4giko?igsh=eDh1OGUyNW5xMGtj",
-  },
-  {
-    id: 13,
-    name: "Shreya Modak",
-    img: "/Images/4th/shreya.jpg",
-    post:"Social Media Head",
-    social: "https://www.instagram.com/_aladaitoh?igsh=MXYwcXRsZWxjYmYx",
-  },
-  {
-    id: 14,
-    name: "Tirtharaj Misra",
-    img: "/Images/4th/tirtharaj.jpg",
-    post:"Logistics Head",
-    social: "https://www.instagram.com/tirth_0_raj/",
-  },
-  {
-    id: 15,
-    name: "Soumyadeep Bhowmik",
-    img: "/Images/4th/soumyadeep.jpg",
-    post:"Publicity Head",
-    social: "https://www.instagram.com/itssoumyaaa?igsh=amJ3YXl1Zmc0dHE2",
-  },
 ];
 
 export const artworks = [
@@ -431,7 +361,7 @@ export const artworks = [
   },
   {
     id:12,
-    img:"/Images/works/IMG_20230628_132300 (1).jpg"
+    img:"/Images/works/IMG_20230628_132300.jpg"
   },
   {
     id:13,
@@ -451,11 +381,11 @@ export const artworks = [
 export const gdworks = [
   {
     id:1,
-    img:"/Images/works/Digital Art 2.png"
+    img:"/Images/works/DigitalArt2.png"
   },
   {
     id:2,
-    img:"/Images/works/Digital Art 1 .png"
+    img:"/Images/works/DigitalArt1.png"
   },
   {
     id:3,
@@ -463,15 +393,15 @@ export const gdworks = [
   },
   {
     id:4,
-    img:"/Images/works/AARHAN ART 1.jpg"
+    img:"/Images/works/AARHANART1.jpg"
   },
   {
     id:5,
-    img:"/Images/works/sunny afternoons.jpg"
+    img:"/Images/works/sunnyafternoons.jpg"
   },
   {
     id:6,
-    img:"/Images/works/emblame_indipendence copy.jpg"
+    img:"/Images/works/emblame_indipendence.jpg"
   },
   {
     id:7,
@@ -616,11 +546,11 @@ export const gdworks = [
 export const photographs = [
   {
     id:1,
-    img:"/Images/works/Fight for survival by Arjo Kundu.jpg"
+    img:"/Images/works/FightforsurvivalbyArjoKundu.jpg"
   },
   {
     id:2,
-    img:"/Images/works/Golden Dawn by Arjo Kundu.jpg"
+    img:"/Images/works/GoldenDawnbyArjoKundu.jpg"
   },
   {
     id:3,
@@ -680,7 +610,7 @@ export const photographs = [
   },
   {
     id:17,
-    img:"/Images/works/20240531175110_IMG_2636 (1).jpg"
+    img:"/Images/works/IMG_20231019_162432_708.jpg"
   },
   {
     id:18,
@@ -692,7 +622,7 @@ export const photographs = [
   },
   {
     id:20,
-    img:"/Images/works/20240515165945_IMG_2351 (1).jpg"
+    img:"/Images/works/20240515165945_IMG_2351.jpg"
   },
 ]
 

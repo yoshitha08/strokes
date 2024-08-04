@@ -45,13 +45,13 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/Images/works/Digital Art 2.png",
+      "/Images/works/DigitalArt2.png",
   },
   {
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/Images/works/Fight for survival by Arjo Kundu.jpg",
+      "/Images/works/FightforsurvivalbyArjoKundu.jpg",
   },
   {
     title: "Strokes",
@@ -105,7 +105,7 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/Images/works/sunny afternoons.jpg",
+      "/Images/works/sunnyafternoons.jpg",
   },
   {
     title: "Strokes",
