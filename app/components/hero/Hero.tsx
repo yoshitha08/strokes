@@ -21,13 +21,13 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/Images/works/IMG_5836_Original.jpg",
+      "/Images/works/IMG_1620.JPG",
   },
   {
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/Images/works/20240515165945_IMG_2351.jpg",
   },
   {
     title: "Strokes",
@@ -87,12 +87,6 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
-  },
-  {
-    title: "Strokes",
-    link: "http://localhost:3000/",
-    thumbnail:
       "/Images/works/IMG_20231019_224753_241.jpg",
   },
   {
@@ -111,7 +105,7 @@ export const products = [
     title: "Strokes",
     link: "http://localhost:3000/",
     thumbnail:
-      "/main_bg.jpeg",
+      "/ChhauDancebyArjoKundu.jpg",
   },
 //   {
 //     title: "Cursor",
